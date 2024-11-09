@@ -101,7 +101,7 @@ Email: vivek.ahuja@researchinflight.com
 Phone: (334) 332-6078
 Relationship: Mentor (worked together on aerodynamic model development in FlightStream)
 
-4. Dr. Sudip Bhattrai   
+5. Dr. Sudip Bhattrai   
 Title: Department Chair, Department of Mechanical and Aerospace Engineering
 Organization: IOE Pulchowk Campus, Tribhuvan University, Nepal
 Email: sudip@pcampus.edu.np
