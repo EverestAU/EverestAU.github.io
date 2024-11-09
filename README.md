@@ -87,21 +87,21 @@ Email: imonchakraborty@auburn.edu
 Phone: (334) 844-4874
 Relationship: Ph.D. Advisor 
 
-3. Dr. Roy Hartfield   
+2. Dr. Roy Hartfield   
 Title: Professor, Aerospace Engineering
 Organization: Auburn University
 Email: hartfrj@auburn.edu
 Phone: (334) 844-6819
 Relationship: Ph.D. Committee Member and Mentor
 
-4. Dr. Vivek Ahuja
+3. Dr. Vivek Ahuja
 Title: Chief Executive Officer
 Organization: Research in Flight
 Email: vivek.ahuja@researchinflight.com
 Phone: (334) 332-6078
 Relationship: Mentor (worked together on aerodynamic model development in FlightStream)
 
-5. Dr. Sudip Bhattrai   
+4. Dr. Sudip Bhattrai   
 Title: Department Chair, Department of Mechanical and Aerospace Engineering
 Organization: IOE Pulchowk Campus, Tribhuvan University, Nepal
 Email: sudip@pcampus.edu.np
