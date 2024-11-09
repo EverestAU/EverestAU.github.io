@@ -9,7 +9,7 @@ Flight test data processing and calibration; Aircraft stability and control; Fly
 control law setup; 6-DOF non-linear piloted/auto flight simulation model development.
 
 ## Education
-- PhD Candidate, Aerospace Engineering | Auburn University (_May 2025_)
+- PhD, Aerospace Engineering | Auburn University (_May 2025_)
 - M.Sc. Aerospace Engineering | Auburn University (_May 2023_)
 - B.E., Mechanical Engineering | Tribhuvan University, Nepal (_November 2017_)
 
