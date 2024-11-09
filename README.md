@@ -34,62 +34,60 @@ I am honored to have received awards such as the AIAA Orville & Wilbur Wright Gr
 1. A. A. Mishra, and I. Chakraborty, “Integrating Stability and Control Constraints into the Conceptual Sizing of a VTOL Tilt-Wing Aircraft,”
    AIAA AVIATION FORUM AND ASCEND 2024, AIAA-2024-4050, Las Vegas, NV. [DOI](https://doi.org/10.2514/6.2024-4050).
 
-3. A. A. Mishra and I. Chakraborty, “Integrating stability and control considerations into the sizing of an
-advanced air mobility VTOL aircraft,” in AIAA SCITECH 2024 Forum, AIAA-2024-2316, Orlando, FL. DOI: https://doi.org/10.2514/6.2024-2316.
+2. A. A. Mishra and I. Chakraborty, “Integrating stability and control considerations into the sizing of an
+advanced air mobility VTOL aircraft,” in AIAA SCITECH 2024 Forum, AIAA-2024-2316, Orlando, FL. [DOI](https://doi.org/10.2514/6.2024-2316).
       
-8. I. Chakraborty, A. A. Mishra, A. M. Comer, and C. Leonard, “Total energy based flight control system
+3. I. Chakraborty, A. A. Mishra, A. M. Comer, and C. Leonard, “Total energy based flight control system
 design for a lift-plus-cruise urban air mobility concept,” in AIAA SCITECH 2021 Forum,
-AIAA-2021-1899, Virtual, 2021, p. 1899. DOI: https://doi.org/10.2514/6.2021-1899.
+AIAA-2021-1899, Virtual, 2021, p. 1899. [DOI](https://doi.org/10.2514/6.2021-1899).
 
-9. I. Chakraborty, A. M. Comer, A. A. Mishra, J. M. Dewey, and C. Leonard, “A reconfigurable flight
+4. I. Chakraborty, A. M. Comer, A. A. Mishra, J. M. Dewey, and C. Leonard, “A reconfigurable flight
 simulation framework aimed at novel flight vehicle concepts,” in AIAA AVIATION 2020 FORUM,
-AIAA-2020-3190, Virtual, 2020, p. 3190. DOI: https://doi.org/10.2514/6.2020-3190.
+AIAA-2020-3190, Virtual, 2020, p. 3190. [DOI](https://doi.org/10.2514/6.2020-3190).
    
 
 # Journal Publications
    
-2. R. Bhandari, A. A. Mishra, and I. Chakraborty, “Optimization of lift-plus-cruise vertical take-off and
-landing aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–23, 2024. DOI:
-https://doi.org/10.2514/1.C037343.
+1. R. Bhandari, A. A. Mishra, and I. Chakraborty, “Optimization of lift-plus-cruise vertical take-off and
+landing aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–23, 2024. [DOI](https://doi.org/10.2514/1.C037343).
        
-4. I. Chakraborty and A. A. Mishra, “Sizing of tilt-wing aircraft with all-electric and hybrid-electric
-propulsion,” Journal of Aircraft, vol. 60, no. 1, pp. 245–264, 2023. DOI: https://doi.org/10.2514/1.C036813.
+2. I. Chakraborty and A. A. Mishra, “Sizing of tilt-wing aircraft with all-electric and hybrid-electric
+propulsion,” Journal of Aircraft, vol. 60, no. 1, pp. 245–264, 2023. [DOI](https://doi.org/10.2514/1.C036813).
 
-5. I. Chakraborty, A. A. Mishra, D. van Dommelen, and W. A. Anemaat, “Design and sizing of an
-electrified lift-plus-cruise ducted fan aircraft,” Journal of Aircraft, vol. 60, no. 3, pp. 817–834, 2023. DOI:
-https://doi.org/10.2514/1.C036811.
+3. I. Chakraborty, A. A. Mishra, D. van Dommelen, and W. A. Anemaat, “Design and sizing of an
+electrified lift-plus-cruise ducted fan aircraft,” Journal of Aircraft, vol. 60, no. 3, pp. 817–834, 2023. [DOI](https://doi.org/10.2514/1.C036811).
 
-6. I. Chakraborty and A. A. Mishra, “Sizing and analysis of a lift-plus-cruise aircraft with electrified
-propulsion,” Journal of Aircraft, pp. 1–19, 2022. DOI: https://doi.org/10.2514/1.C037044.
+4. I. Chakraborty and A. A. Mishra, “Sizing and analysis of a lift-plus-cruise aircraft with electrified
+propulsion,” Journal of Aircraft, pp. 1–19, 2022. [DOI](https://doi.org/10.2514/1.C037044).
 
-7. I. Chakraborty and A. A. Mishra, “Generalized energy-based flight vehicle sizing and performance
-analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 2021. DOI:
-https://doi.org/10.2514/1.C036101.
+5. I. Chakraborty and A. A. Mishra, “Generalized energy-based flight vehicle sizing and performance
+analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 2021. [DOI](https://doi.org/10.2514/1.C036101).
 
 
 # References
 1. Dr. Imon Chakraborty
+--------------------------
 Title: Associate Professor, Aerospace Engineering
 Organization: Auburn University
 Email: imonchakraborty@auburn.edu
 Phone: (334) 844-4874
 Relationship: Ph.D. Advisor 
 
-2. Dr. Roy Hartfield
+3. Dr. Roy Hartfield
 Title: Professor, Aerospace Engineering
 Organization: Auburn University
 Email: hartfrj@auburn.edu
 Phone: (334) 844-6819
 Relationship: Ph.D. Committee Member and Mentor
 
-3. Dr. Vivek Ahuja
+4. Dr. Vivek Ahuja
 Title: Chief Executive Officer
 Organization: Research in Flight
 Email: vivek.ahuja@researchinflight.com
 Phone: (334) 332-6078
 Relationship: Mentor (worked together on aerodynamic model development in FlightStream)
 
-4. Dr. Sudip Bhattrai
+5. Dr. Sudip Bhattrai
 Title: Department Chair, Department of Mechanical and Aerospace Engineering
 Organization: IOE Pulchowk Campus, Tribhuvan University, Nepal
 Email: sudip@pcampus.edu.np
