@@ -32,7 +32,7 @@ I am honored to have received awards such as the AIAA Orville & Wilbur Wright Gr
 ![scitech](https://github.com/user-attachments/assets/c02d8215-ef84-41a6-91fd-1d4934ba6fd0)
 
 1. A. A. Mishra, and I. Chakraborty, “Integrating Stability and Control Constraints into the Conceptual Sizing of a VTOL Tilt-Wing Aircraft,”
-   AIAA AVIATION FORUM AND ASCEND 2024, AIAA-2024-4050, Las Vegas, NV. DOI: https://doi.org/10.2514/6.2024-4050.
+   AIAA AVIATION FORUM AND ASCEND 2024, AIAA-2024-4050, Las Vegas, NV. [DOI](https://doi.org/10.2514/6.2024-4050).
 
 3. A. A. Mishra and I. Chakraborty, “Integrating stability and control considerations into the sizing of an
 advanced air mobility VTOL aircraft,” in AIAA SCITECH 2024 Forum, AIAA-2024-2316, Orlando, FL. DOI: https://doi.org/10.2514/6.2024-2316.
