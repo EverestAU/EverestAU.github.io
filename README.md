@@ -1,8 +1,9 @@
 # Introduction
 I am Aashutosh Aman Mishra, a Ph.D. candidate in Aerospace Engineering at Auburn University, graduating in May 2025. 
+
 My expertise includes aircraft design, aero-propulsive model development, flight dynamics, flight control system development, and real-time flight simulation modeling, with a focus on novel/unconventional advanced air mobility concepts. 
 
-I am honored to have received awards such as the AIAA Orville & Wilbur Wright Graduate Award (2024) and the AIAA Luis de Florez Graduate Award in Flight Simulation (2022), besides two best paper awards in aircraft design by AIAA. I aspire to work as a Flight Dynamics Engineer, contributing to the design and testing of aircraft that meet rigorous civil and military standards for handling qualities.
+I aspire to work as a Flight Dynamics Engineer, contributing to the design and testing of aircraft that meet rigorous civil and military standards for handling qualities.
 
 # Areas of Specialization
 ![image](https://github.com/user-attachments/assets/d096866e-9964-4a52-93a9-1412ee29cf40)
@@ -17,6 +18,10 @@ I am honored to have received awards such as the AIAA Orville & Wilbur Wright Gr
 **Graduate Research Assistant, Auburn University (_August 2019 - Present_)**
 - 
 -
+
+# Projects
+##  Vehicle sizing, Aerodynamics, Propeller Modeling, Vehicle Mass Properties, 
+##  Flight Simulation, Flight Sim photos (cite: VSDDL), 
 
 # Awards and Achievements
 - [AIAA Orville and Wilbur Wright Graduate Award (2024)](https://aerospaceamerica.aiaa.org/bulletin/september-2024-aiaa-bulletin/)
@@ -33,9 +38,7 @@ I am honored to have received awards such as the AIAA Orville & Wilbur Wright Gr
   ![image](https://github.com/user-attachments/assets/b979af85-e664-4041-b9b8-b5912dbd6087)
 
 
-# Projects
-##  Vehicle sizing, Aerodynamics, Propeller Modeling, Vehicle Mass Properties, 
-##  Flight Simulation, Flight Sim photos (cite: VSDDL), 
+
 
 
 
