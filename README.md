@@ -91,14 +91,14 @@ Email: hartfrj@auburn.edu
 Phone: (334) 844-6819
 Relationship: Ph.D. Committee Member and Mentor
 
-5. Dr. Vivek Ahuja
+4. Dr. Vivek Ahuja
 Title: Chief Executive Officer
 Organization: Research in Flight
 Email: vivek.ahuja@researchinflight.com
 Phone: (334) 332-6078
 Relationship: Mentor (worked together on aerodynamic model development in FlightStream)
 
-7. Dr. Sudip Bhattrai   
+5. Dr. Sudip Bhattrai   
 Title: Department Chair, Department of Mechanical and Aerospace Engineering
 Organization: IOE Pulchowk Campus, Tribhuvan University, Nepal
 Email: sudip@pcampus.edu.np
