@@ -20,10 +20,12 @@ Aircraft design --> Develop aero-propulsive model --> Set up flight controls -->
 # Awards and Achievements
 
 # Projects
-#  Vehicle sizing, Aerodynamics, Propeller Modeling, Vehicle Mass Properties, 
-#  Flight Simulation, Flight Sim photos (cite: VSDDL), 
+##  Vehicle sizing, Aerodynamics, Propeller Modeling, Vehicle Mass Properties, 
+##  Flight Simulation, Flight Sim photos (cite: VSDDL), 
 
 # Conference appearances
+
+![scitech](https://github.com/user-attachments/assets/c02d8215-ef84-41a6-91fd-1d4934ba6fd0)
 
 # Publications
 1. R. Bhandari, A. A. Mishra, and I. Chakraborty, “Optimization of lift-plus-cruise vertical take-off and
