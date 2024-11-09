@@ -25,11 +25,11 @@ I am honored to have received awards such as the AIAA Orville & Wilbur Wright Gr
 - [AIAA Luis de Florez Graduate Award in Flight Simulation (2022)](https://digitaleditions.walsworth.com/publication/?i=759268&article_id=4332792&view=articleBrowser)
   ![image](https://github.com/user-attachments/assets/f57e884f-85bb-40dd-971d-4f0132c2e7b8)
 
-- AIAA Electrified Aircraft Technology Best Paper Award (2022)
+- [AIAA Electrified Aircraft Technology Best Paper Award (2022)](https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/)
   ![image](https://github.com/user-attachments/assets/02b31930-70fa-4054-bf7b-da5287c0cbe7)
 
   
-- AIAA Aircraft Design Best Paper Award (2021)
+- [AIAA Aircraft Design Best Paper Award (2021)](https://aerospaceamerica.aiaa.org/bulletin/november-2021-aiaa-bulletin/)
   ![image](https://github.com/user-attachments/assets/b979af85-e664-4041-b9b8-b5912dbd6087)
 
 
