@@ -5,8 +5,7 @@ My expertise includes aircraft design, aero-propulsive model development, flight
 I am honored to have received awards such as the AIAA Orville & Wilbur Wright Graduate Award (2024) and the AIAA Luis de Florez Graduate Award in Flight Simulation (2022), besides two best paper awards in aircraft design by AIAA. I aspire to work as a Flight Dynamics Engineer, contributing to the design and testing of aircraft that meet rigorous civil and military standards for handling qualities.
 
 # Areas of Specialization
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/ca111001-5d84-4e6a-8d02-0907a0f96fff)
 
 
 # Education
