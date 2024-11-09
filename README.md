@@ -20,6 +20,7 @@ I am honored to have received awards such as the AIAA Orville & Wilbur Wright Gr
 
 # Awards and Achievements
 
+
 # Projects
 ##  Vehicle sizing, Aerodynamics, Propeller Modeling, Vehicle Mass Properties, 
 ##  Flight Simulation, Flight Sim photos (cite: VSDDL), 
@@ -64,52 +65,32 @@ analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 202
 
 
 # References
-1. Dr. Imon Chakraborty
-   
+1. Dr. Imon Chakraborty   
 Title: Associate Professor, Aerospace Engineering
-
 Organization: Auburn University
-
 Email: imonchakraborty@auburn.edu
-
 Phone: (334) 844-4874
-
 Relationship: Ph.D. Advisor 
 
-3. Dr. Roy Hartfield
-   
+3. Dr. Roy Hartfield   
 Title: Professor, Aerospace Engineering
-
 Organization: Auburn University
-
 Email: hartfrj@auburn.edu
-
 Phone: (334) 844-6819
-
 Relationship: Ph.D. Committee Member and Mentor
 
 5. Dr. Vivek Ahuja
-
 Title: Chief Executive Officer
-
 Organization: Research in Flight
-
 Email: vivek.ahuja@researchinflight.com
-
 Phone: (334) 332-6078
-
 Relationship: Mentor (worked together on aerodynamic model development in FlightStream)
 
-7. Dr. Sudip Bhattrai
-   
+7. Dr. Sudip Bhattrai   
 Title: Department Chair, Department of Mechanical and Aerospace Engineering
-
 Organization: IOE Pulchowk Campus, Tribhuvan University, Nepal
-
 Email: sudip@pcampus.edu.np
-
 Phone: +977-9866925296
-
 Relationship: Undergraduate research supervisor
 
 
