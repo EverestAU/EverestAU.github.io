@@ -14,11 +14,11 @@ control law setup; 6-DOF non-linear piloted/auto flight simulation model develop
 - B.E., Mechanical Engineering | Tribhuvan University (_November 2017_)
 
 # Experience
-**Graduate Research Assistant at Auburn University (_August 2019 - Present_)**
+**Graduate Research Assistant, Auburn University (_August 2019 - Present_)**
 - 
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Graduate Teaching Assistant at Auburn University (_August 2019 - May 2020_)**
+**Graduate Teaching Assistant, Auburn University (_August 2019 - May 2020_)**
 - GTA for Aerospace Systems and Flight Dynamics at the Department of Aerospace Engineering, Auburn University.
 - Tutored aircraft design tools like OpenVSP, XFOIL, QMIL/QPROP, and CFD (FlightStream®) to the aircraft design class.
 
