@@ -6,8 +6,7 @@ I am honored to have received awards such as the AIAA Orville & Wilbur Wright Gr
 Aircraft design; Flight dynamic model for fixed-wing and rotorcraft; Aerodynamic model development;
 Flight test data processing and calibration; Aircraft stability and control; Fly-by-wire
 control law setup; 6-DOF non-linear piloted/auto flight simulation model development.
-## Name
-## Adress
+
 # Education
 # Experience
 # Work Samples
