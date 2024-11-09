@@ -5,8 +5,7 @@ My expertise includes aircraft design, aero-propulsive model development, flight
 I am honored to have received awards such as the AIAA Orville & Wilbur Wright Graduate Award (2024) and the AIAA Luis de Florez Graduate Award in Flight Simulation (2022), besides two best paper awards in aircraft design by AIAA. I aspire to work as a Flight Dynamics Engineer, contributing to the design and testing of aircraft that meet rigorous civil and military standards for handling qualities.
 
 # Areas of Specialization
-![image](https://github.com/user-attachments/assets/63bccc98-b0d7-438c-a24c-e2251ad21d6d)
-
+![image](https://github.com/user-attachments/assets/d096866e-9964-4a52-93a9-1412ee29cf40)
 
 
 # Education
@@ -66,32 +65,51 @@ analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 202
 
 # References
 1. Dr. Imon Chakraborty
---------------------------
+   
 Title: Associate Professor, Aerospace Engineering
+
 Organization: Auburn University
+
 Email: imonchakraborty@auburn.edu
+
 Phone: (334) 844-4874
+
 Relationship: Ph.D. Advisor 
 
 3. Dr. Roy Hartfield
+   
 Title: Professor, Aerospace Engineering
+
 Organization: Auburn University
+
 Email: hartfrj@auburn.edu
+
 Phone: (334) 844-6819
+
 Relationship: Ph.D. Committee Member and Mentor
 
-4. Dr. Vivek Ahuja
+5. Dr. Vivek Ahuja
+
 Title: Chief Executive Officer
+
 Organization: Research in Flight
+
 Email: vivek.ahuja@researchinflight.com
+
 Phone: (334) 332-6078
+
 Relationship: Mentor (worked together on aerodynamic model development in FlightStream)
 
-5. Dr. Sudip Bhattrai
+7. Dr. Sudip Bhattrai
+   
 Title: Department Chair, Department of Mechanical and Aerospace Engineering
+
 Organization: IOE Pulchowk Campus, Tribhuvan University, Nepal
+
 Email: sudip@pcampus.edu.np
+
 Phone: +977-9866925296
+
 Relationship: Undergraduate research supervisor
 
 
