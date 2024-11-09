@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 # Introduction
 ## Name
 ## Adress
