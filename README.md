@@ -8,14 +8,10 @@ Aircraft design; Fixed-wing or rotorcraft flight dynamic modeling; Aerodynamic m
 Flight test data processing and calibration; Aircraft stability and control; Fly-by-wire
 control law setup; 6-DOF non-linear piloted/auto flight simulation model development.
 
-# Education
-PhD Candidate, Aerospace Engineering, Auburn University May 2025
-An Integrated Methodology for Vehicle Design Subject to Flying Qualities Constraints.
-GPA: 4.00
-M.Sc. Aerospace Engineering, Auburn University May 2023
-GPA: 4.00
-B.E., Mechanical Engineering, Tribhuvan University, Nepal November 2017
-GPA: 3.30
+## Education
+- PhD Candidate, Aerospace Engineering | Auburn University (_May 2025_)
+- M.Sc. Aerospace Engineering | Auburn University (_May 2023_)
+- B.E., Mechanical Engineering | Tribhuvan University, Nepal (_November 2017_)
 
 # Experience
 # Work Samples
