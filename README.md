@@ -5,7 +5,8 @@ My expertise includes aircraft design, aero-propulsive model development, flight
 I am honored to have received awards such as the AIAA Orville & Wilbur Wright Graduate Award (2024) and the AIAA Luis de Florez Graduate Award in Flight Simulation (2022), besides two best paper awards in aircraft design by AIAA. I aspire to work as a Flight Dynamics Engineer, contributing to the design and testing of aircraft that meet rigorous civil and military standards for handling qualities.
 
 # Areas of Specialization
-Aircraft design --> Develop aero-propulsive model --> Set up flight controls --> Size vehicle for a given design mission --> Assess stability & control and feedback to the sizing iterations to ensure desirable flying qualities
+![image](https://github.com/user-attachments/assets/b1bc5d87-46e0-4234-820f-11795146379a)
+
 
 # Education
 - Ph.D., Aerospace Engineering | Auburn University (_May 2025_)
@@ -23,34 +24,47 @@ Aircraft design --> Develop aero-propulsive model --> Set up flight controls -->
 ##  Vehicle sizing, Aerodynamics, Propeller Modeling, Vehicle Mass Properties, 
 ##  Flight Simulation, Flight Sim photos (cite: VSDDL), 
 
-# Conference appearances
+
+
+# Conference Papers
 
 ![scitech](https://github.com/user-attachments/assets/c02d8215-ef84-41a6-91fd-1d4934ba6fd0)
 
-# Publications
-1. R. Bhandari, A. A. Mishra, and I. Chakraborty, “Optimization of lift-plus-cruise vertical take-off and
-landing aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–23, 2024. DOI:
-https://doi.org/10.2514/1.C037343.
-2. A. A. Mishra and I. Chakraborty, “Integrating stability and control considerations into the sizing of an
-advanced air mobility VTOL aircraft,” in AIAA SCITECH 2024 Forum, AIAA-2024-2316, Orlando, FL,
-2024. DOI: https://doi.org/10.2514/6.2024-2316.
-3. I. Chakraborty and A. A. Mishra, “Sizing of tilt-wing aircraft with all-electric and hybrid-electric
-propulsion,” Journal of Aircraft, vol. 60, no. 1, pp. 245–264, 2023. DOI:
-https://doi.org/10.2514/1.C036813.
-4. I. Chakraborty, A. A. Mishra, D. van Dommelen, and W. A. Anemaat, “Design and sizing of an
-electrified lift-plus-cruise ducted fan aircraft,” Journal of Aircraft, vol. 60, no. 3, pp. 817–834, 2023. DOI:
-https://doi.org/10.2514/1.C036811.
-5. I. Chakraborty and A. A. Mishra, “Sizing and analysis of a lift-plus-cruise aircraft with electrified
-propulsion,” Journal of Aircraft, pp. 1–19, 2022. DOI: https://doi.org/10.2514/1.C037044.
-6. I. Chakraborty and A. A. Mishra, “Generalized energy-based flight vehicle sizing and performance
-analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 2021. DOI:
-https://doi.org/10.2514/1.C036101.
-7. I. Chakraborty, A. A. Mishra, A. M. Comer, and C. Leonard, “Total energy based flight control system
+1. A. A. Mishra, and I. Chakraborty, “Integrating Stability and Control Constraints into the Conceptual Sizing of a VTOL Tilt-Wing Aircraft,”
+   AIAA AVIATION FORUM AND ASCEND 2024, AIAA-2024-4050, Las Vegas, NV. DOI: https://doi.org/10.2514/6.2024-4050.
+
+3. A. A. Mishra and I. Chakraborty, “Integrating stability and control considerations into the sizing of an
+advanced air mobility VTOL aircraft,” in AIAA SCITECH 2024 Forum, AIAA-2024-2316, Orlando, FL. DOI: https://doi.org/10.2514/6.2024-2316.
+      
+8. I. Chakraborty, A. A. Mishra, A. M. Comer, and C. Leonard, “Total energy based flight control system
 design for a lift-plus-cruise urban air mobility concept,” in AIAA SCITECH 2021 Forum,
 AIAA-2021-1899, Virtual, 2021, p. 1899. DOI: https://doi.org/10.2514/6.2021-1899.
-8. I. Chakraborty, A. M. Comer, A. A. Mishra, J. M. Dewey, and C. Leonard, “A reconfigurable flight
+
+9. I. Chakraborty, A. M. Comer, A. A. Mishra, J. M. Dewey, and C. Leonard, “A reconfigurable flight
 simulation framework aimed at novel flight vehicle concepts,” in AIAA AVIATION 2020 FORUM,
 AIAA-2020-3190, Virtual, 2020, p. 3190. DOI: https://doi.org/10.2514/6.2020-3190.
+   
+
+# Journal Publications
+   
+2. R. Bhandari, A. A. Mishra, and I. Chakraborty, “Optimization of lift-plus-cruise vertical take-off and
+landing aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–23, 2024. DOI:
+https://doi.org/10.2514/1.C037343.
+       
+4. I. Chakraborty and A. A. Mishra, “Sizing of tilt-wing aircraft with all-electric and hybrid-electric
+propulsion,” Journal of Aircraft, vol. 60, no. 1, pp. 245–264, 2023. DOI: https://doi.org/10.2514/1.C036813.
+
+5. I. Chakraborty, A. A. Mishra, D. van Dommelen, and W. A. Anemaat, “Design and sizing of an
+electrified lift-plus-cruise ducted fan aircraft,” Journal of Aircraft, vol. 60, no. 3, pp. 817–834, 2023. DOI:
+https://doi.org/10.2514/1.C036811.
+
+6. I. Chakraborty and A. A. Mishra, “Sizing and analysis of a lift-plus-cruise aircraft with electrified
+propulsion,” Journal of Aircraft, pp. 1–19, 2022. DOI: https://doi.org/10.2514/1.C037044.
+
+7. I. Chakraborty and A. A. Mishra, “Generalized energy-based flight vehicle sizing and performance
+analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 2021. DOI:
+https://doi.org/10.2514/1.C036101.
+
 
 # References
 1. Dr. Imon Chakraborty
