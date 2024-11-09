@@ -1,9 +1,5 @@
-plotitle: Aashutosh A Mishra
+title: Aashutosh A Mishra
 logo: display picture-circle.png
-[[params.social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.in/citations?user=USERID"
 # description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
