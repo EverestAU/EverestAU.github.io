@@ -6,7 +6,8 @@ My expertise includes aircraft design, aero-propulsive model development, flight
 
 My research goal is to develop a **_unified sizing and flight simulation framework_** to ensure that the vehicle is sized to exhibit desirable flying qualities during flight. 
 
-<a href="https://EverestAU.github.io/EverestAU.github.io/Mishra, Aashutosh - Resume.pdf" target="_blank">Download My Resume</a>
+[Download My Resume](https://github.com/EverestAU/EverestAU.github.io/raw/main/resume.pdf)
+
 
 
 # Areas of Specialization
