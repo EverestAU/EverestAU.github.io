@@ -54,7 +54,6 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 
 
 
-
   
 
 - Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
