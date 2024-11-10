@@ -17,14 +17,11 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 # Experience
 **Graduate Research Assistant, Auburn University (_August 2019 - Present_)**
 <figure>
-  <a href="ResearchIntro_2.mp4">
-    <img src="thumbnail.jpg" alt="Research Summary Video" width="250" height="340">
-  </a>
-  <figcaption>Research Summary Video.</figcaption>
-</figure>
 <video width="250" height="340" controls>
   <source src="ResearchIntro_2.mp4" type="video/mp4">  
 </video>
+  <figcaption>Research Summary Video.</figcaption>
+</figure>
 
 - Developed generalized tools for rapid vehicle design, aircraft sizing, and real-time flight simulation for conventional as well as novel advanced air mobility configurations, including fuel-burning, all-electric, and hybrid-electric aircraft.
    
