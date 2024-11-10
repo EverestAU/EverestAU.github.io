@@ -40,7 +40,7 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 - Tutor aircraft design tools like OpenVSP, XFOIL, QMIL/QPROP, and CFD (FlightStream®) to the aircraft design class.
 
 # [Projects](https://www.vsddl.com/projects/)
-- Aircraft sizing and performance analysis framework: _Parametric Energy-Based Aircraft Configuration Evaluator_ [PEACE](https://www.linkedin.com/pulse/peace-vsddls-aircraft-sizing-framework-vsddl-8jxse/?trackingId=5FJjuBf9U6oFSzaJxECuzg%3D%3D)
+- Aircraft sizing and performance analysis framework: _Parametric Energy-Based Aircraft Configuration Evaluator_ _[PEACE]_(https://www.linkedin.com/pulse/peace-vsddls-aircraft-sizing-framework-vsddl-8jxse/?trackingId=5FJjuBf9U6oFSzaJxECuzg%3D%3D)
   ![image](https://github.com/user-attachments/assets/4cb11545-3a31-4c2d-bbca-28c5aff99564)
 
 - Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
