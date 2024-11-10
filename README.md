@@ -46,14 +46,11 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 
 - Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
   ![image](https://github.com/user-attachments/assets/5a22358c-c5c6-4635-afa4-7d06d986e176)
-
   ![image](https://github.com/user-attachments/assets/0686dcef-3536-4f36-8a5b-f0d523460fa0)
-
   ![image](https://github.com/user-attachments/assets/84bf8ae8-7683-4338-a118-1b5753a9a4b7)
-
   ![image](https://github.com/user-attachments/assets/166a685e-fa1a-4cc8-a0cc-cb5b9734d5ac)
 
-  ![image](https://github.com/user-attachments/assets/5a8dfd9f-32f7-4bb7-ac4c-53dd8d4573ed)
+  
 
 
   
