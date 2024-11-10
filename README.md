@@ -9,7 +9,6 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 [Download My Resume](https://github.com/EverestAU/EverestAU.github.io/raw/main/resume.pdf)
 
 
-
 # Areas of Specialization
 ![image](https://github.com/user-attachments/assets/e8ec6121-2087-4370-bf32-d0655ea93a1b)
 
