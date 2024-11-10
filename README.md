@@ -41,11 +41,12 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 - Aircraft sizing and performance analysis framework: _Parametric Energy-Based Aircraft Configuration Evaluator_ [_PEACE_](https://www.linkedin.com/pulse/peace-vsddls-aircraft-sizing-framework-vsddl-8jxse/?trackingId=5FJjuBf9U6oFSzaJxECuzg%3D%3D)
   ![image](https://github.com/user-attachments/assets/4cb11545-3a31-4c2d-bbca-28c5aff99564)
 
-  Following are some of the conceptual vehicles I have sized using PEACE: 
-  ![image](https://github.com/user-attachments/assets/9c522378-4c0c-4516-a68c-f6123309f37a)
-  ![image](https://github.com/user-attachments/assets/77bc276e-bfdb-4840-95bc-3bd8b8e940b7)
+  Following are some of the conceptual vehicles I have sized using PEACE:
+  [More details are available here](https://www.vsddl.com/hangar/)
+  ![image](https://github.com/user-attachments/assets/b18ee48f-1f4e-4a10-83d4-588bcca871a1)
+  ![image](https://github.com/user-attachments/assets/90ba706d-010d-450d-bb62-294d765170d0)
 
-[More details are available here](https://www.vsddl.com/hangar/)
+
 
   
 
