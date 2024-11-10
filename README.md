@@ -80,7 +80,8 @@ analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 202
 
 
 # References
-1. Dr. Imon Chakraborty [[LinkedIn]![image](![<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/imon-chakraborty/)
+1. Dr. Imon Chakraborty [![LinkedIn](<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"> )](https://www.linkedin.com/in/imon-chakraborty/)
+
  
 Title: Associate Professor, Aerospace Engineering
 Organization: Auburn University
