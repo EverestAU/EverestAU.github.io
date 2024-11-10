@@ -6,7 +6,8 @@ My expertise includes aircraft design, aero-propulsive model development, flight
 I aspire to work as a Flight Dynamics Engineer, contributing to the design and testing of aircraft that meet rigorous civil and military standards for handling qualities.
 
 # Areas of Specialization
-![image](https://github.com/user-attachments/assets/743f7c55-8e09-43cf-9a0a-a4bd6d833a3f)
+![image](https://github.com/user-attachments/assets/e8ec6121-2087-4370-bf32-d0655ea93a1b)
+
 
 
 
@@ -17,7 +18,12 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 
 # Experience
 **Graduate Research Assistant, Auburn University (_August 2019 - Present_)**
-- 
+
+-  
+
+https://github.com/user-attachments/assets/a777c3c4-865f-4b4f-854e-c03c2aeaecec
+
+
 -
 
 # Projects
