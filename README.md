@@ -17,9 +17,9 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 # Experience
 **Graduate Research Assistant, Auburn University (_August 2019 - Present_)**
 <figure>
-  <a href="ResearchIntro_2.mp4">
-    <img src="thumbnail.jpg" alt="Research Summary Video" width="250" height="340">
-  </a>
+<video width="250" height="340" controls>
+  <source src="ResearchIntro_2.mp4" type="video/mp4">  
+</video>
   <figcaption>Research Summary Video.</figcaption>
 </figure>
 
