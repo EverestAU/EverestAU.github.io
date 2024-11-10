@@ -42,7 +42,7 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 
 
 
-# Conference Papers
+# Conference Publications
 
 ![scitech](https://github.com/user-attachments/assets/c02d8215-ef84-41a6-91fd-1d4934ba6fd0)
 
