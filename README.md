@@ -78,10 +78,12 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
  
 
 # Awards and Achievements
-[AIAA Orville and Wilbur Wright Graduate Award (2024)](https://aerospaceamerica.aiaa.org/bulletin/september-2024-aiaa-bulletin/)
+[AIAA Orville and Wilbur Wright Graduate Award (2024)](https://aerospaceamerica.aiaa.org/bulletin/september-2024-aiaa-bulletin/)  
+Excerpt from Aerospace America 2024 September bulletin:  
 ![image](https://github.com/user-attachments/assets/3c768554-6a03-475a-99b5-3aad19e655ff)
 
-[AIAA Luis de Florez Graduate Award in Flight Simulation (2022)](https://digitaleditions.walsworth.com/publication/?i=759268&article_id=4332792&view=articleBrowser)
+[AIAA Luis de Florez Graduate Award in Flight Simulation (2022)](https://digitaleditions.walsworth.com/publication/?i=759268&article_id=4332792&view=articleBrowser)  
+Excerpt from Aerospace America 2022 September bulletin:  
 ![image](https://github.com/user-attachments/assets/f57e884f-85bb-40dd-971d-4f0132c2e7b8)
 
 [AIAA Electrified Aircraft Technology Best Paper Award (2022)](https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/)  
