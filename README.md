@@ -1,3 +1,6 @@
+- [LinkedIn](https://www.linkedin.com/in/mishra-aashutosh/)
+- [Google Scholar](https://scholar.google.com/citations?user=m6qyYHgAAAAJ&hl=en)
+
 # Introduction
 I am Aashutosh Aman Mishra, a Ph.D. candidate in Aerospace Engineering at Auburn University, graduating in May 2025. 
 
