@@ -49,7 +49,9 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
   ![image](https://github.com/user-attachments/assets/84bf8ae8-7683-4338-a118-1b5753a9a4b7)
   ![image](https://github.com/user-attachments/assets/166a685e-fa1a-4cc8-a0cc-cb5b9734d5ac)
 
-  
+- Unified Vehicle Sizing and Flight Simulation Framework
+  ![image](https://github.com/user-attachments/assets/a851dd4d-0680-4244-8f51-323494d60177)
+ 
 
 
   
