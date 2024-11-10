@@ -19,12 +19,12 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 # Experience
 **Graduate Research Assistant, Auburn University (_August 2019 - Present_)**
 
--  
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://github.com/username/repo-name/blob/main/media/video-file.mp4)
-
-<video width="320" height="240" controls>
+<figure>
+<video width="240" height="320" controls>
   <source src="ResearchIntro_2.mp4" type="video/mp4">  
 </video>
+  <figcaption>Research Summary Video.</figcaption>
+</figure>
 
 -
 
