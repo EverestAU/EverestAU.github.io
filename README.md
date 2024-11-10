@@ -6,13 +6,6 @@ My expertise includes aircraft design, aero-propulsive model development, flight
 
 My research goal is to develop a **_unified sizing and flight simulation framework_** to ensure that the vehicle is sized to exhibit desirable flying qualities during flight. 
 
-Connect with me on:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-aashutosh/)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aashutosh@auburn.edu)
-[![Phone](https://img.shields.io/badge/Phone-34b7f1?style=for-the-badge&logo=phone&logoColor=white)](tel:+1 334 610 6443)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=m6qyYHgAAAAJ&hl=en)
-
-
 
 # Areas of Specialization
 ![image](https://github.com/user-attachments/assets/e8ec6121-2087-4370-bf32-d0655ea93a1b)
@@ -157,7 +150,13 @@ Relationship: Mentor (worked together on aerodynamic model development in Flight
 Title: Department Chair, Department of Mechanical and Aerospace Engineering ([Website](https://mech.pcampus.edu.np/our-people/sudip-bhattrai/))  
 Organization: IOE Pulchowk Campus, Tribhuvan University, Nepal  
 Email: sudip@pcampus.edu.np  
-Phone: +977-9866925296  
+Phone: +977-9866925296
+
+Connect with me here:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-aashutosh/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aashutosh@auburn.edu)
+[![Phone](https://img.shields.io/badge/Phone-34b7f1?style=for-the-badge&logo=phone&logoColor=white)](tel:+1 334 610 6443)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=m6qyYHgAAAAJ&hl=en)
 Relationship: Undergraduate research supervisor  
 
 
