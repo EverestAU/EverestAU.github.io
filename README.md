@@ -9,7 +9,6 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 [Download My Resume](https://github.com/EverestAU/EverestAU.github.io/raw/main/resume.pdf)
 
 
-
 # Areas of Specialization
 ![image](https://github.com/user-attachments/assets/e8ec6121-2087-4370-bf32-d0655ea93a1b)
 
@@ -59,12 +58,13 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 - Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
   ![image](https://github.com/user-attachments/assets/a557e415-2848-4010-944d-e0fade9e40b7)
   ![image](https://github.com/user-attachments/assets/e787a106-dd23-419e-8fbe-d0deed40cc0f)
-  ![image](https://github.com/user-attachments/assets/8309df37-0dea-440c-a6f8-5165d5b4365d)  
+  ![image](https://github.com/user-attachments/assets/8309df37-0dea-440c-a6f8-5165d5b4365d)
+  
   <figure>
-  <video width="250" height="340" controls poster="FlightSim_Background.jpg">
-    <source src="FlightSimDemo2.mp4" type="video/mp4">  
+  <video width="250" height="340" controls>
+    <source src="FlightSimDemo3.mp4" type="video/mp4">  
   </video>
-    <figcaption>LPC-03 "Phoenix" Flight.</figcaption>
+    <figcaption>LPC-03 Phoenix Flight.</figcaption>
   </figure>
 
 
