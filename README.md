@@ -1,5 +1,3 @@
-- [LinkedIn](https://www.linkedin.com/in/mishra-aashutosh/)
-- [Google Scholar](https://scholar.google.com/citations?user=m6qyYHgAAAAJ&hl=en)
 
 # Introduction
 I am Aashutosh Aman Mishra, a Ph.D. candidate in Aerospace Engineering at Auburn University, graduating in May 2025. 
@@ -7,6 +5,13 @@ I am Aashutosh Aman Mishra, a Ph.D. candidate in Aerospace Engineering at Auburn
 My expertise includes aircraft design, aero-propulsive model development, flight dynamics, flight control system development, and real-time flight simulation, with a focus on novel/unconventional advanced air mobility concepts. 
 
 My research goal is to develop a **_unified sizing and flight simulation framework_** to ensure that the vehicle is sized to exhibit desirable flying qualities during flight. 
+
+Connect with me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-aashutosh/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=m6qyYHgAAAAJ&hl=en)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aashutosh@auburn.edu)
+
 
 # Areas of Specialization
 ![image](https://github.com/user-attachments/assets/e8ec6121-2087-4370-bf32-d0655ea93a1b)
@@ -155,7 +160,4 @@ Phone: +977-9866925296
 Relationship: Undergraduate research supervisor  
 
 
-Connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-aashutosh/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=m6qyYHgAAAAJ&hl=en)
