@@ -40,7 +40,7 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 
 - Tutor aircraft design tools like OpenVSP, XFOIL, QMIL/QPROP, and CFD (FlightStream®) to the aircraft design class.
 
-# Projects
+# [Projects](https://www.vsddl.com/projects/)
 - Aircraft sizing and performance analysis framework: _Parametric Energy-Based Aircraft Configuration Evaluator (PEACE_)
 - 
 - Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
