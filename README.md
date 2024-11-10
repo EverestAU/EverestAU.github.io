@@ -82,14 +82,14 @@ analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 202
 
 # References
 1. Dr. Imon Chakraborty [LinkedIn](https://www.linkedin.com/in/imon-chakraborty/)  
-Title: Associate Professor, Aerospace Engineering ([Website]((https://eng.auburn.edu/directory/izc0018))  
+Title: Associate Professor, Aerospace Engineering ([Website]((https://eng.auburn.edu/directory/izc0018)))  
 Organization: Auburn University  
 Email: imonchakraborty@auburn.edu  
 Phone: (334) 844-4874  
 Relationship: Ph.D. Advisor   
 
 2. Dr. Roy Hartfield  [LinkedIn](https://www.linkedin.com/in/roy-hartfield-16b4141a/)  
-Title: Professor, Aerospace Engineering ([Website](https://eng.auburn.edu/directory/hartfrj)  
+Title: Professor, Aerospace Engineering ([Website](https://eng.auburn.edu/directory/hartfrj))  
 Organization: Auburn University  
 Email: hartfrj@auburn.edu  
 Phone: (334) 844-6819  
