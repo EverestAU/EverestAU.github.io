@@ -6,6 +6,8 @@ My expertise includes aircraft design, aero-propulsive model development, flight
 
 My research goal is to develop a **_unified sizing and flight simulation framework_** to ensure that the vehicle is sized to exhibit desirable flying qualities during flight. 
 
+<a href="https://your-username.github.io/your-repository/resume.pdf" target="_blank">Download My Resume</a>
+
 
 # Areas of Specialization
 ![image](https://github.com/user-attachments/assets/e8ec6121-2087-4370-bf32-d0655ea93a1b)
