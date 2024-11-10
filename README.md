@@ -42,7 +42,8 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 
 # [Projects](https://www.vsddl.com/projects/)
 - Aircraft sizing and performance analysis framework: _Parametric Energy-Based Aircraft Configuration Evaluator (PEACE_)
-- 
+  ![image](https://github.com/user-attachments/assets/4cb11545-3a31-4c2d-bbca-28c5aff99564)
+
 - Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
   ![image](https://github.com/user-attachments/assets/5a22358c-c5c6-4635-afa4-7d06d986e176)
 
