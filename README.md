@@ -31,15 +31,18 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 
 - Integrated aircraft longitudinal and lateral-directional flight dynamic characteristics, based on a fully nonlinear 6-DOF flight simulation model to meet the handling qualities guidelines defined by MIL-STD-1797A and MIL-F-8785C for fixed-wing aircraft and ADS-33E-PRF for rotary-wing aircraft during vehicle sizing.
 
-- Lead the development, integration, and validation of aero-propulsive characteristics for novel eVTOL designs into the research flight simulators driven by a MATLAB/Simulink-based non-linear time domain simulation framework.
+- Led the development, integration, and validation of aero-propulsive characteristics for novel eVTOL designs into the research flight simulators driven by a MATLAB/Simulink-based non-linear time domain simulation framework.
 
 - Gained hands-on experience with flight simulator construction, flight control system development, cockpit displays and control setup, visualization setup, and model calibration, to facilitate flight simulator operation.
 
-- Tutor aircraft design tools like OpenVSP, XFOIL, QMIL/QPROP, and CFD (FlightStream®) to the aircraft design class.
+- Tutored aircraft design tools like OpenVSP, XFOIL, QMIL/QPROP, and CFD (FlightStream®) to the aircraft design class.
 
 # [Projects](https://www.vsddl.com/projects/)
 - Aircraft sizing and performance analysis framework: _Parametric Energy-Based Aircraft Configuration Evaluator_ [_PEACE_](https://www.linkedin.com/pulse/peace-vsddls-aircraft-sizing-framework-vsddl-8jxse/?trackingId=5FJjuBf9U6oFSzaJxECuzg%3D%3D)
   ![image](https://github.com/user-attachments/assets/4cb11545-3a31-4c2d-bbca-28c5aff99564)
+
+  Following are the conceptual vehicles I have sized using PEACE:
+  
 
 - Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
   ![image](https://github.com/user-attachments/assets/a557e415-2848-4010-944d-e0fade9e40b7)
