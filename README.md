@@ -16,7 +16,6 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 
 # Experience
 **Graduate Research Assistant, Auburn University (_August 2019 - Present_)**
-
 <figure>
 <video width="250" height="340" controls>
   <source src="ResearchIntro_2.mp4" type="video/mp4">  
@@ -41,7 +40,7 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 - Tutor aircraft design tools like OpenVSP, XFOIL, QMIL/QPROP, and CFD (FlightStream®) to the aircraft design class.
 
 # [Projects](https://www.vsddl.com/projects/)
-- Aircraft sizing and performance analysis framework: _Parametric Energy-Based Aircraft Configuration Evaluator (PEACE_)
+- Aircraft sizing and performance analysis framework: _Parametric Energy-Based Aircraft Configuration Evaluator [(PEACE_)](https://www.linkedin.com/pulse/peace-vsddls-aircraft-sizing-framework-vsddl-8jxse/?trackingId=5FJjuBf9U6oFSzaJxECuzg%3D%3D)
   ![image](https://github.com/user-attachments/assets/4cb11545-3a31-4c2d-bbca-28c5aff99564)
 
 - Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
