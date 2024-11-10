@@ -1,14 +1,12 @@
 # Introduction
 I am Aashutosh Aman Mishra, a Ph.D. candidate in Aerospace Engineering at Auburn University, graduating in May 2025. 
 
-My expertise includes aircraft design, aero-propulsive model development, flight dynamics, flight control system development, and real-time flight simulation modeling, with a focus on novel/unconventional advanced air mobility concepts. 
+My expertise includes aircraft design, aero-propulsive model development, flight dynamics, flight control system development, and real-time flight simulation, with a focus on novel/unconventional advanced air mobility concepts. 
 
 I aspire to work as a Flight Dynamics Engineer, contributing to the design and testing of aircraft that meet rigorous civil and military standards for handling qualities.
 
 # Areas of Specialization
 ![image](https://github.com/user-attachments/assets/e8ec6121-2087-4370-bf32-d0655ea93a1b)
-
-
 
 
 # Education
@@ -54,11 +52,13 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 ![image](https://github.com/user-attachments/assets/f57e884f-85bb-40dd-971d-4f0132c2e7b8)
 
 [AIAA Electrified Aircraft Technology Best Paper Award (2022)](https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/)
-![image](https://github.com/user-attachments/assets/02b31930-70fa-4054-bf7b-da5287c0cbe7)
+![image](https://github.com/user-attachments/assets/a0060126-2ec7-4d56-9d9c-d96a408fdb7a)
+
 
   
 [AIAA Aircraft Design Best Paper Award (2021)](https://aerospaceamerica.aiaa.org/bulletin/november-2021-aiaa-bulletin/)
-![image](https://github.com/user-attachments/assets/b979af85-e664-4041-b9b8-b5912dbd6087)
+![image](https://github.com/user-attachments/assets/a7c7d421-1f25-4392-9b67-d09e83ee6b23)
+
 
 
 
