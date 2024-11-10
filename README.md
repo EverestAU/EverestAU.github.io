@@ -122,7 +122,7 @@ Title: Chief Executive Officer
 Organization: Research in Flight ([Website](https://researchinflight.com/))  
 Email: vivek.ahuja@researchinflight.com  
 Phone: (334) 332-6078  
-Relationship: Mentor (worked together on aerodynamic model development in FlightStream)  
+Relationship: Mentor (worked together on aerodynamic model development in FlightStream®)  
 
 5. Dr. Sudip Bhattrai [LinkedIn](https://www.linkedin.com/in/sudip-bhattrai-99588540/)   
 Title: Department Chair, Department of Mechanical and Aerospace Engineering ([Website](https://mech.pcampus.edu.np/our-people/sudip-bhattrai/))  
