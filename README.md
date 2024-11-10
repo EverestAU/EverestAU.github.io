@@ -25,18 +25,18 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 ##  Flight Simulation, Flight Sim photos (cite: VSDDL), 
 
 # Awards and Achievements
-- [AIAA Orville and Wilbur Wright Graduate Award (2024)](https://aerospaceamerica.aiaa.org/bulletin/september-2024-aiaa-bulletin/)
-  ![image](https://github.com/user-attachments/assets/3c768554-6a03-475a-99b5-3aad19e655ff)
+[AIAA Orville and Wilbur Wright Graduate Award (2024)](https://aerospaceamerica.aiaa.org/bulletin/september-2024-aiaa-bulletin/)
+![image](https://github.com/user-attachments/assets/3c768554-6a03-475a-99b5-3aad19e655ff)
 
-- [AIAA Luis de Florez Graduate Award in Flight Simulation (2022)](https://digitaleditions.walsworth.com/publication/?i=759268&article_id=4332792&view=articleBrowser)
-  ![image](https://github.com/user-attachments/assets/f57e884f-85bb-40dd-971d-4f0132c2e7b8)
+[AIAA Luis de Florez Graduate Award in Flight Simulation (2022)](https://digitaleditions.walsworth.com/publication/?i=759268&article_id=4332792&view=articleBrowser)
+![image](https://github.com/user-attachments/assets/f57e884f-85bb-40dd-971d-4f0132c2e7b8)
 
-- [AIAA Electrified Aircraft Technology Best Paper Award (2022)](https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/)
-  ![image](https://github.com/user-attachments/assets/02b31930-70fa-4054-bf7b-da5287c0cbe7)
+[AIAA Electrified Aircraft Technology Best Paper Award (2022)](https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/)
+![image](https://github.com/user-attachments/assets/02b31930-70fa-4054-bf7b-da5287c0cbe7)
 
   
-- [AIAA Aircraft Design Best Paper Award (2021)](https://aerospaceamerica.aiaa.org/bulletin/november-2021-aiaa-bulletin/)
-  ![image](https://github.com/user-attachments/assets/b979af85-e664-4041-b9b8-b5912dbd6087)
+[AIAA Aircraft Design Best Paper Award (2021)](https://aerospaceamerica.aiaa.org/bulletin/november-2021-aiaa-bulletin/)
+![image](https://github.com/user-attachments/assets/b979af85-e664-4041-b9b8-b5912dbd6087)
 
 
 
@@ -81,33 +81,33 @@ analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 202
 
 
 # References
-1. Dr. Imon Chakraborty [LinkedIn](https://www.linkedin.com/in/imon-chakraborty/) 
-Title: Associate Professor, Aerospace Engineering
-Organization: Auburn University
-Email: imonchakraborty@auburn.edu
-Phone: (334) 844-4874
-Relationship: Ph.D. Advisor 
+1. Dr. Imon Chakraborty [LinkedIn](https://www.linkedin.com/in/imon-chakraborty/)  
+Title: Associate Professor, Aerospace Engineering  
+Organization: Auburn University  
+Email: imonchakraborty@auburn.edu  
+Phone: (334) 844-4874  
+Relationship: Ph.D. Advisor   
 
-2. Dr. Roy Hartfield  [LinkedIn](https://www.linkedin.com/in/roy-hartfield-16b4141a/) 
-Title: Professor, Aerospace Engineering
-Organization: Auburn University
-Email: hartfrj@auburn.edu
-Phone: (334) 844-6819
-Relationship: Ph.D. Committee Member and Mentor
+2. Dr. Roy Hartfield  [LinkedIn](https://www.linkedin.com/in/roy-hartfield-16b4141a/)  
+Title: Professor, Aerospace Engineering  
+Organization: Auburn University  
+Email: hartfrj@auburn.edu  
+Phone: (334) 844-6819  
+Relationship: Ph.D. Committee Member and Mentor  
 
-3. Dr. Vivek Ahuja [LinkedIn](https://www.linkedin.com/in/vivekahuja2013/)
-Title: Chief Executive Officer
-Organization: Research in Flight
-Email: vivek.ahuja@researchinflight.com
-Phone: (334) 332-6078
-Relationship: Mentor (worked together on aerodynamic model development in FlightStream)
+3. Dr. Vivek Ahuja [LinkedIn](https://www.linkedin.com/in/vivekahuja2013/)  
+Title: Chief Executive Officer  
+Organization: Research in Flight  
+Email: vivek.ahuja@researchinflight.com  
+Phone: (334) 332-6078  
+Relationship: Mentor (worked together on aerodynamic model development in FlightStream)  
 
-5. Dr. Sudip Bhattrai [LinkedIn](https://www.linkedin.com/in/sudip-bhattrai-99588540/) 
-Title: Department Chair, Department of Mechanical and Aerospace Engineering
-Organization: IOE Pulchowk Campus, Tribhuvan University, Nepal
-Email: sudip@pcampus.edu.np
-Phone: +977-9866925296
-Relationship: Undergraduate research supervisor
+5. Dr. Sudip Bhattrai [LinkedIn](https://www.linkedin.com/in/sudip-bhattrai-99588540/)   
+Title: Department Chair, Department of Mechanical and Aerospace Engineering  
+Organization: IOE Pulchowk Campus, Tribhuvan University, Nepal  
+Email: sudip@pcampus.edu.np  
+Phone: +977-9866925296  
+Relationship: Undergraduate research supervisor  
 
 
 Connect with me on:
