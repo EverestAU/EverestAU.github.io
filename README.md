@@ -6,7 +6,8 @@ My expertise includes aircraft design, aero-propulsive model development, flight
 I aspire to work as a Flight Dynamics Engineer, contributing to the design and testing of aircraft that meet rigorous civil and military standards for handling qualities.
 
 # Areas of Specialization
-![image](https://github.com/user-attachments/assets/d096866e-9964-4a52-93a9-1412ee29cf40)
+![image](https://github.com/user-attachments/assets/743f7c55-8e09-43cf-9a0a-a4bd6d833a3f)
+
 
 
 # Education
