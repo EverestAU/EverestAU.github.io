@@ -51,12 +51,12 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 [AIAA Luis de Florez Graduate Award in Flight Simulation (2022)](https://digitaleditions.walsworth.com/publication/?i=759268&article_id=4332792&view=articleBrowser)
 ![image](https://github.com/user-attachments/assets/f57e884f-85bb-40dd-971d-4f0132c2e7b8)
 
-[AIAA Electrified Aircraft Technology Best Paper Award (2022)](https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/)
+[AIAA Electrified Aircraft Technology Best Paper Award (2022)](https://aerospaceamerica.aiaa.org/bulletin/november-2023-aiaa-bulletin/)  
 ![image](https://github.com/user-attachments/assets/a0060126-2ec7-4d56-9d9c-d96a408fdb7a)
 
 
   
-[AIAA Aircraft Design Best Paper Award (2021)](https://aerospaceamerica.aiaa.org/bulletin/november-2021-aiaa-bulletin/)
+[AIAA Aircraft Design Best Paper Award (2021)](https://aerospaceamerica.aiaa.org/bulletin/november-2021-aiaa-bulletin/)  
 ![image](https://github.com/user-attachments/assets/a7c7d421-1f25-4392-9b67-d09e83ee6b23)
 
 
