@@ -41,8 +41,9 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 - Tutor aircraft design tools like OpenVSP, XFOIL, QMIL/QPROP, and CFD (FlightStream®) to the aircraft design class.
 
 # Projects
-##  Vehicle sizing, Aerodynamics, Propeller Modeling, Vehicle Mass Properties, 
-##  Flight Simulation, Flight Sim photos (cite: VSDDL), 
+- Aircraft sizing and performance analysis framework: _Parametric Energy-Based Aircraft Configuration Evaluator (PEACE_)
+- 
+- Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
 
 # Awards and Achievements
 [AIAA Orville and Wilbur Wright Graduate Award (2024)](https://aerospaceamerica.aiaa.org/bulletin/september-2024-aiaa-bulletin/)
