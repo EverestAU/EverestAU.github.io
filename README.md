@@ -64,7 +64,7 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
   <video width="250" height="340" controls poster="FlightSim_Background.jpg">
     <source src="FlightSimDemo.mp4" type="video/mp4">  
   </video>
-    <figcaption>Research Summary Video.</figcaption>
+    <figcaption>LPC-03 "Phoenix" Flight.</figcaption>
   </figure>
 
 
