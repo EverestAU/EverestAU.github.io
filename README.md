@@ -26,7 +26,21 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
   <figcaption>Research Summary Video.</figcaption>
 </figure>
 
--
+- Developed generalized tools for rapid vehicle design, aircraft sizing, and real-time flight simulation for conventional as well as novel advanced air mobility configurations, including fuel-burning, all-electric, and hybrid-electric aircraft.
+   
+- Integrated vortex-lattice and panel codes for aerodynamic prediction within the aircraft sizing and flight simulation framework in an optimal way to support real-time flight simulation.
+
+- Implemented a strip-theory based modeling approach to tackle coupled aero-propulsive interactions and validated them with CFD-generated and wind tunnel results.
+
+- Integrated aircraft longitudinal and lateral-directional flight dynamic characteristics, based on a fully nonlinear 6-DOF flight simulation model to meet the handling qualities guidelines defined by MIL-STD-1797A and MIL-F-8785C for fixed-wing aircraft and ADS-33E-PRF for rotary-wing aircraft during vehicle sizing.
+
+- Developed tail sizing approach for fixed-wing (as well as eVTOL vehicles) based on the stability and control (S&C) requirements at different flight conditions as defined in 14CFR Part 23 to ensure desirable flight characteristics after the vehicle has been sized.
+
+- Lead the development, integration, and validation of aero-propulsive characteristics for novel eVTOL designs into the research flight simulators driven by a MATLAB/Simulink-based non-linear time domain simulation framework.
+
+- Gained hands-on experience with flight simulator construction, flight control system development, cockpit displays and control setup, visualization setup, and model calibration, to facilitate flight simulator operation.
+
+- Tutor aircraft design tools like OpenVSP, XFOIL, QMIL/QPROP, and CFD (FlightStream®) to the aircraft design class.
 
 # Projects
 ##  Vehicle sizing, Aerodynamics, Propeller Modeling, Vehicle Mass Properties, 
