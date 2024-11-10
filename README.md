@@ -42,7 +42,7 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
   ![image](https://github.com/user-attachments/assets/4cb11545-3a31-4c2d-bbca-28c5aff99564)
 
 - Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
-  ![image](https://github.com/user-attachments/assets/01c70a71-35c2-4a60-8cb1-a48008c82c63)
+  ![image](https://github.com/user-attachments/assets/a557e415-2848-4010-944d-e0fade9e40b7)
   ![image](https://github.com/user-attachments/assets/e787a106-dd23-419e-8fbe-d0deed40cc0f)
   ![image](https://github.com/user-attachments/assets/8309df37-0dea-440c-a6f8-5165d5b4365d)
   ![image](https://github.com/user-attachments/assets/703b1cc3-de65-4f55-a178-3adde2d275ea)
