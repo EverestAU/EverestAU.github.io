@@ -31,8 +31,6 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 
 - Integrated aircraft longitudinal and lateral-directional flight dynamic characteristics, based on a fully nonlinear 6-DOF flight simulation model to meet the handling qualities guidelines defined by MIL-STD-1797A and MIL-F-8785C for fixed-wing aircraft and ADS-33E-PRF for rotary-wing aircraft during vehicle sizing.
 
-- Developed tail sizing approach for fixed-wing (as well as eVTOL vehicles) based on the stability and control (S&C) requirements at different flight conditions as defined in 14CFR Part 23 to ensure desirable flight characteristics after the vehicle has been sized.
-
 - Lead the development, integration, and validation of aero-propulsive characteristics for novel eVTOL designs into the research flight simulators driven by a MATLAB/Simulink-based non-linear time domain simulation framework.
 
 - Gained hands-on experience with flight simulator construction, flight control system development, cockpit displays and control setup, visualization setup, and model calibration, to facilitate flight simulator operation.
