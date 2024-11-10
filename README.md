@@ -20,7 +20,7 @@ I aspire to work as a Flight Dynamics Engineer, contributing to the design and t
 **Graduate Research Assistant, Auburn University (_August 2019 - Present_)**
 
 <figure>
-<video width="240" height="320" controls>
+<video width="250" height="340" controls>
   <source src="ResearchIntro_2.mp4" type="video/mp4">  
 </video>
   <figcaption>Research Summary Video.</figcaption>
