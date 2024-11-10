@@ -61,8 +61,10 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
   ![image](https://github.com/user-attachments/assets/703b1cc3-de65-4f55-a178-3adde2d275ea)
 
 
-- Unified Vehicle Sizing and Flight Simulation Framework  
+- Unified Vehicle Sizing and Flight Simulation Framework (_connecting the dots_)  
   ![image](https://github.com/user-attachments/assets/ceffaa5f-59d5-49ad-a938-212120c81148)
+
+  My goal is to connect the aircraft design and flight dynamics together to achieve a flight vehicle that exhibits desirable "flying qualities" during piloted/automated flight.
 
  
 
