@@ -116,8 +116,7 @@ simulation framework aimed at novel flight vehicle concepts,” in AIAA AVIATION
 AIAA-2020-3190, Virtual, 2020, p. 3190. [DOI](https://doi.org/10.2514/6.2020-3190).
    
 
-# Journal Publications
-   
+# Journal Publications   
 1. R. Bhandari, A. A. Mishra, and I. Chakraborty, “Optimization of lift-plus-cruise vertical take-off and
 landing aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–23, 2024. [DOI](https://doi.org/10.2514/1.C037343).
        
