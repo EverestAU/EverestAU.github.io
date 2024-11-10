@@ -49,7 +49,7 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
   ![image](https://github.com/user-attachments/assets/84bf8ae8-7683-4338-a118-1b5753a9a4b7)
   ![image](https://github.com/user-attachments/assets/166a685e-fa1a-4cc8-a0cc-cb5b9734d5ac)
 
-- Unified Vehicle Sizing and Flight Simulation Framework
+- Unified Vehicle Sizing and Flight Simulation Framework  
   ![image](https://github.com/user-attachments/assets/ceffaa5f-59d5-49ad-a938-212120c81148)
 
  
