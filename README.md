@@ -47,11 +47,22 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 
   Following are some of the conceptual vehicles sized using PEACE:  
   More details are available here on the lab's [website](https://www.vsddl.com/hangar/).    
-  The relevant papers are also available on my Google Scholar [profile](https://scholar.google.com/citations?user=m6qyYHgAAAAJ&hl=en).
+  
   ![image](https://github.com/user-attachments/assets/b18ee48f-1f4e-4a10-83d4-588bcca871a1)
-  ![image](https://github.com/user-attachments/assets/2d00b4f8-2616-4c74-9f90-e875da9c594d)
+  ![image](https://github.com/user-attachments/assets/e66ecc7c-b222-419a-8665-69b4d6fb7d68)
+  
+  References:
+  1. I. Chakraborty and A. A. Mishra, “Sizing and analysis of a lift-plus-cruise aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–19, 2022. [DOI](https://doi.org/10.2514/1.C037044).
+  2. R. Bhandari, A. A. Mishra, and I. Chakraborty, “Optimization of lift-plus-cruise vertical take-off and landing aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–23, 2024. [DOI](https://doi.org/10.2514/1.C037343).
+  
+  
+  ![image](https://github.com/user-attachments/assets/2d00b4f8-2616-4c74-9f90-e875da9c594d)  
 
-
+References:
+1. A. A. Mishra, and I. Chakraborty, “Integrating Stability and Control Constraints into the Conceptual Sizing of a VTOL Tilt-Wing Aircraft,”
+   AIAA AVIATION FORUM AND ASCEND 2024, AIAA-2024-4050, Las Vegas, NV. [DOI](https://doi.org/10.2514/6.2024-4050).
+2. A. A. Mishra and I. Chakraborty, “Integrating stability and control considerations into the sizing of an
+advanced air mobility VTOL aircraft,” in AIAA SCITECH 2024 Forum, AIAA-2024-2316, Orlando, FL. [DOI](https://doi.org/10.2514/6.2024-2316).
 
 
   
