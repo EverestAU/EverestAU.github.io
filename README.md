@@ -49,7 +49,7 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
   More details are available here on the lab's [website](https://www.vsddl.com/hangar/).    
   
   ![image](https://github.com/user-attachments/assets/b18ee48f-1f4e-4a10-83d4-588bcca871a1)
-  ![image](https://github.com/user-attachments/assets/4650b606-eb23-498e-87d4-815e9a328210)  
+  ![image](https://github.com/user-attachments/assets/a208455c-5dae-436f-ae4b-0cf634f49b83)    
   
   References:
   1. I. Chakraborty and A. A. Mishra, “Sizing and analysis of a lift-plus-cruise aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–19, 2022. [DOI](https://doi.org/10.2514/1.C037044).
