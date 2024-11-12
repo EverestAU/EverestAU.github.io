@@ -174,7 +174,7 @@ Relationship: Mentor (worked together on aerodynamic model development in Flight
 Title: Department Chair, Department of Mechanical and Aerospace Engineering ([Website](https://mech.pcampus.edu.np/our-people/sudip-bhattrai/))  
 Organization: IOE Pulchowk Campus, Tribhuvan University, Nepal  
 Email: sudip@pcampus.edu.np  
-Phone: +977-9866925296
+Phone: +977-9866925296  
 Relationship: Undergraduate research supervisor  
 
 Connect with me here:  
