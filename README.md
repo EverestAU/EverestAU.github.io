@@ -68,7 +68,7 @@ advanced air mobility VTOL aircraft,” in AIAA SCITECH 2024 Forum, AIAA-2024-23
 
   
 
-- Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_
+- **Stability and Control Assessment and Flight Simulation Framework: _Modular Aircraft Dynamics and Control Algorithm Simulation Platform (MADCASP)_**
   ![image](https://github.com/user-attachments/assets/a557e415-2848-4010-944d-e0fade9e40b7)
   ![image](https://github.com/user-attachments/assets/e787a106-dd23-419e-8fbe-d0deed40cc0f)
   ![image](https://github.com/user-attachments/assets/8309df37-0dea-440c-a6f8-5165d5b4365d)
