@@ -56,9 +56,10 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
   2. R. Bhandari, A. A. Mishra, and I. Chakraborty, “Optimization of lift-plus-cruise vertical take-off and landing aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–23, 2024. [DOI](https://doi.org/10.2514/1.C037343).
   
   
-  ![image](https://github.com/user-attachments/assets/2d00b4f8-2616-4c74-9f90-e875da9c594d)  
+  ![image](https://github.com/user-attachments/assets/2d00b4f8-2616-4c74-9f90-e875da9c594d)
+  ![image](https://github.com/user-attachments/assets/99749ead-8521-4970-828a-ce5f824b8000)  
   ![image](SnC TW.png)
-  ![image](https://github.com/user-attachments/assets/a0102c48-fb86-4f98-892a-fa4c634a1461)
+  
 
   
 References:
