@@ -58,6 +58,8 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
   
   ![image](https://github.com/user-attachments/assets/2d00b4f8-2616-4c74-9f90-e875da9c594d)  
   ![image](SnC TW.png)
+  ![image](https://github.com/user-attachments/assets/a0102c48-fb86-4f98-892a-fa4c634a1461)
+
   
 References:
 1. A. A. Mishra, and I. Chakraborty, “Integrating Stability and Control Constraints into the Conceptual Sizing of a VTOL Tilt-Wing Aircraft,”
