@@ -57,7 +57,7 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
   
   
   ![image](https://github.com/user-attachments/assets/2d00b4f8-2616-4c74-9f90-e875da9c594d)
-  ![image](https://github.com/user-attachments/assets/99749ead-8521-4970-828a-ce5f824b8000)  
+  ![image](https://github.com/user-attachments/assets/835c642d-b45a-40fc-bb7c-732ac32f6a30)  
   ![image](SnC TW.png)
   
 
