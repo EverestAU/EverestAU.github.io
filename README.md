@@ -33,7 +33,7 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 
 - Implemented a strip-theory based modeling approach to tackle coupled aero-propulsive interactions and validated them with CFD-generated and wind tunnel results.
 
-- Integrated aircraft longitudinal and lateral-directional flight dynamic characteristics, based on a fully nonlinear 6-DOF flight simulation model to meet the handling qualities guidelines defined by MIL-STD-1797A and MIL-F-8785C for fixed-wing aircraft and ADS-33E-PRF for rotary-wing aircraft during vehicle sizing.
+- Integrated aircraft longitudinal and lateral-directional flight dynamic characteristics, based on a fully nonlinear 6-DOF flight simulation model to meet the handling qualities guidelines defined by 14 FAR Part 23 and Part 25 for fixed-wing aircraft and ADS-33E-PRF for rotary-wing aircraft during vehicle sizing.
 
 - Led the development, integration, and validation of aero-propulsive characteristics for novel eVTOL designs into the research flight simulators driven by a MATLAB/Simulink-based non-linear time domain simulation framework.
 
