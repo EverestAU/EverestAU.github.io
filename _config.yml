@@ -3,3 +3,12 @@ logo: display picture-circle.png
 # description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+# Add a custom CSS file
+markdown: kramdown
+sass:
+  style: compressed
+
+# Point to your custom CSS file
+include:
+  - assets/css/custom.css
