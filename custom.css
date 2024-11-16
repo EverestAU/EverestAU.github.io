@@ -1,0 +1,5 @@
+/* Custom CSS to change page width */
+.container {
+    max-width: 80%; /* Adjust as needed */
+    margin: 0 auto; /* Center content */
+}
