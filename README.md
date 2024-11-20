@@ -152,7 +152,7 @@ analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 202
 
 # References
 1. Dr. Imon Chakraborty [LinkedIn](https://www.linkedin.com/in/imon-chakraborty/)  
-Title: Associate Professor, Aerospace Engineering ([Website]((https://eng.auburn.edu/directory/izc0018)))  
+Title: Associate Professor, Aerospace Engineering ([Website](https://eng.auburn.edu/directory/izc0018))  
 Organization: Auburn University  
 Email: imonchakraborty@auburn.edu  
 Phone: (334) 844-4874  
