@@ -35,11 +35,15 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 
 - Multi-disciplinary analysis & optimization (MDO/MDAO) of UAM flight vehicle using genetic algorithm (NSGA-II) in MATLAB.
 
+- Developed propeller/rotor design and analysis framework to evaluate the propeller performance at design and off-design flight conditions.
+
 - Integrated aircraft longitudinal and lateral-directional flight dynamic characteristics, based on a fully nonlinear 6-DOF flight simulation model to meet the handling qualities guidelines defined by 14 CFR Part 23 and Part 25 for fixed-wing aircraft and ADS-33E-PRF for rotary-wing aircraft during vehicle sizing.
 
 - Led the development, integration, and validation of aero-propulsive characteristics for novel eVTOL designs into the research flight simulators driven by a MATLAB/Simulink-based non-linear time domain simulation framework.
 
 - Gained hands-on experience with flight simulator construction, flight control system development, cockpit displays and control setup, visualization setup, and model calibration, to facilitate flight simulator operation.
+
+- Integrated in-house fight dynamic models (developed in MATLAB) and aircraft configuration files into the environment of FlightGear and X-Plane for visual references in the flight simulator.
 
 - Tutored aircraft design tools like OpenVSP, XFOIL, QMIL/QPROP, and CFD (FlightStream®) to the aircraft design class.
 
