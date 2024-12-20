@@ -29,9 +29,11 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 
 - Developed generalized tools for rapid vehicle design, aircraft sizing, and real-time flight simulation for conventional as well as novel advanced air mobility configurations, including fuel-burning, all-electric, and hybrid-electric aircraft.
    
-- Integrated vortex-lattice and panel codes for aerodynamic prediction within the aircraft sizing and flight simulation framework in an optimal way to support real-time flight simulation.
+- Integrated mass-properties evaluation within the sizing framework where the vehicle is not considered as a point-mass during design mission evaluation.
 
 - Implemented a strip-theory based modeling approach to tackle coupled aero-propulsive interactions and validated them with CFD-generated and wind tunnel results.
+
+- Multi-disciplinary analysis & optimization (MDO/MDAO) of UAM flight vehicle using genetic algorithm (NSGA-II) in MATLAB.
 
 - Integrated aircraft longitudinal and lateral-directional flight dynamic characteristics, based on a fully nonlinear 6-DOF flight simulation model to meet the handling qualities guidelines defined by 14 CFR Part 23 and Part 25 for fixed-wing aircraft and ADS-33E-PRF for rotary-wing aircraft during vehicle sizing.
 
