@@ -130,12 +130,9 @@ Design of a Vectored Thrust UAM Vehicle,” AIAA SciTech 2025 Forum, 2025, Paper
    
 2. Mishra, A. A., and Chakraborty, I., “Flight Dynamics and Control Integration in Conceptual Design of an Advanced Air Mobility VTOL Aircraft,” AIAA AVIATION FORUM AND ASCEND 2024, 2024, Paper 4050. [DOI](https://doi.org/10.2514/6.2024-4050).  
 
-3. Mishra, A. A., and Chakraborty, I., “Integrating Stability and Control Considerations into the
-Sizing of an Advanced Air Mobility VTOL Aircraft,” AIAA SciTech 2024 Forum, 2024, Paper
-2316. [DOI](https://doi.org/10.2514/6.2024-2316).  
+3. Mishra, A. A., and Chakraborty, I., “Integrating Stability and Control Considerations into the Sizing of an Advanced Air Mobility VTOL Aircraft,” AIAA SciTech 2024 Forum, 2024, Paper 2316. [DOI](https://doi.org/10.2514/6.2024-2316).  
       
-4. Chakraborty, I., and Mishra, A. A., “Total Energy Based Flight Control System Design for a
-Lift-Plus-Cruise Urban Air Mobility Concept,” AIAA SciTech 2021 Forum, 2021, Paper 1899. [DOI](https://doi.org/10.2514/6.2021-1899).
+4. Chakraborty, I., and Mishra, A. A., “Total Energy Based Flight Control System Design for a Lift-Plus-Cruise Urban Air Mobility Concept,” AIAA SciTech 2021 Forum, 2021, Paper 1899. [DOI](https://doi.org/10.2514/6.2021-1899).
 
 5. Chakraborty, I., Comer, A. M., Mishra, A. A., Dewey, J. M., and Leonard, C., “A Reconfigurable
 Flight Simulation Framework Aimed at Novel Flight Vehicle Concepts,” AIAA AVIATION 2020
