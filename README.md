@@ -142,8 +142,7 @@ FORUM, 2020, Paper 3190. [DOI](https://doi.org/10.2514/6.2020-3190).
    
 
 # Journal Publications   
-1. R. Bhandari, A. A. Mishra, and I. Chakraborty, “Optimization of lift-plus-cruise vertical take-off and
-landing aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–23, 2024. [DOI](https://doi.org/10.2514/1.C037343).
+1. Bhandari, R., Mishra, A. A., and Chakraborty, I., “Optimization of Lift-Plus-Cruise Vertical Takeoff and Landing Aircraft with Electrified Propulsion,” Journal of Aircraft, 2024, pp. 1–23. [DOI](https://doi.org/10.2514/1.C037343).
        
 2. Chakraborty, I., and Mishra, A. A., “Sizing of Tilt-Wing Aircraft with All-Electric and Hybrid-
 Electric Propulsion,” Journal of Aircraft, Vol. 60, No. 1, 2023, pp. 245–264. [DOI](https://doi.org/10.2514/1.C036813).
