@@ -131,7 +131,7 @@ Design of a Vectored Thrust UAM Vehicle,” AIAA SCITECH 2025 Forum, 2025, Paper
 
 3. Mishra, A. A., and Chakraborty, I., “Integrating Stability and Control Considerations into the
 Sizing of an Advanced Air Mobility VTOL Aircraft,” AIAA SCITECH 2024 Forum, 2024, Paper
-2316. [DOI](https://doi.org/10.2514/6.2024-2316).
+2316. [DOI](https://doi.org/10.2514/6.2024-2316).  
       
 4. Chakraborty, I., and Mishra, A. A., “Total Energy Based Flight Control System Design for a
 Lift-Plus-Cruise Urban Air Mobility Concept,” AIAA Scitech 2021 Forum, 2021, Paper 1899. [DOI](https://doi.org/10.2514/6.2021-1899).
