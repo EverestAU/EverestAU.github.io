@@ -127,35 +127,34 @@ Excerpt from Aerospace America 2022 September bulletin:
 
 1. Mishra, A. A., and Chakraborty, I., “Integrating Flight Dynamics Constraints into the Conceptual 
 Design of a Vectored Thrust UAM Vehicle,” AIAA SCITECH 2025 Forum, 2025, Paper 2349. [DOI](https://doi.org/10.2514/6.2025-2349).     
-2. Mishra, A. A., and Chakraborty, I., “Flight Dynamics and Control Integration in Conceptual Design of an Advanced Air Mobility VTOL Aircraft,” AIAA AVIATION FORUM AND ASCEND 2024, 2024, Paper 4050. [DOI](https://doi.org/10.2514/6.2024-4050).
+2. Mishra, A. A., and Chakraborty, I., “Flight Dynamics and Control Integration in Conceptual Design of an Advanced Air Mobility VTOL Aircraft,” AIAA AVIATION FORUM AND ASCEND 2024, 2024, Paper 4050. [DOI](https://doi.org/10.2514/6.2024-4050).  
 
-3. A. A. Mishra and I. Chakraborty, “Integrating stability and control considerations into the sizing of an
-advanced air mobility VTOL aircraft,” in AIAA SCITECH 2024 Forum, AIAA-2024-2316, Orlando, FL. [DOI](https://doi.org/10.2514/6.2024-2316).
+3. Mishra, A. A., and Chakraborty, I., “Integrating Stability and Control Considerations into the
+Sizing of an Advanced Air Mobility VTOL Aircraft,” AIAA SCITECH 2024 Forum, 2024, Paper
+2316. [DOI](https://doi.org/10.2514/6.2024-2316).
       
-4. I. Chakraborty, A. A. Mishra, A. M. Comer, and C. Leonard, “Total energy based flight control system
-design for a lift-plus-cruise urban air mobility concept,” in AIAA SCITECH 2021 Forum,
-AIAA-2021-1899, Virtual, 2021, p. 1899. [DOI](https://doi.org/10.2514/6.2021-1899).
+4. Chakraborty, I., and Mishra, A. A., “Total Energy Based Flight Control System Design for a
+Lift-Plus-Cruise Urban Air Mobility Concept,” AIAA Scitech 2021 Forum, 2021, Paper 1899. [DOI](https://doi.org/10.2514/6.2021-1899).
 
-5. I. Chakraborty, A. M. Comer, A. A. Mishra, J. M. Dewey, and C. Leonard, “A reconfigurable flight
-simulation framework aimed at novel flight vehicle concepts,” in AIAA AVIATION 2020 FORUM,
-AIAA-2020-3190, Virtual, 2020, p. 3190. [DOI](https://doi.org/10.2514/6.2020-3190).
+5. Chakraborty, I., Comer, A. M., Mishra, A. A., Dewey, J. M., and Leonard, C., “A Reconfigurable
+Flight Simulation Framework Aimed at Novel Flight Vehicle Concepts,” AIAA AVIATION 2020
+FORUM, 2020, Paper 3190. [DOI](https://doi.org/10.2514/6.2020-3190).
    
 
 # Journal Publications   
 1. R. Bhandari, A. A. Mishra, and I. Chakraborty, “Optimization of lift-plus-cruise vertical take-off and
 landing aircraft with electrified propulsion,” Journal of Aircraft, pp. 1–23, 2024. [DOI](https://doi.org/10.2514/1.C037343).
        
-2. I. Chakraborty and A. A. Mishra, “Sizing of tilt-wing aircraft with all-electric and hybrid-electric
-propulsion,” Journal of Aircraft, vol. 60, no. 1, pp. 245–264, 2023. [DOI](https://doi.org/10.2514/1.C036813).
+2. Chakraborty, I., and Mishra, A. A., “Sizing of Tilt-Wing Aircraft with All-Electric and Hybrid-
+Electric Propulsion,” Journal of Aircraft, Vol. 60, No. 1, 2023, pp. 245–264. [DOI](https://doi.org/10.2514/1.C036813).
 
-3. I. Chakraborty, A. A. Mishra, D. van Dommelen, and W. A. Anemaat, “Design and sizing of an
-electrified lift-plus-cruise ducted fan aircraft,” Journal of Aircraft, vol. 60, no. 3, pp. 817–834, 2023. [DOI](https://doi.org/10.2514/1.C036811).
+3. Chakraborty, I., Mishra, A. A., van Dommelen, D., and Anemaat, W. A., “Design and Sizing of an Electrified Lift-Plus-Cruise Ducted Fan Aircraft,” Journal of Aircraft, Vol. 60, No. 3, 2023, pp. 817–834. [DOI](https://doi.org/10.2514/1.C036811).
 
-4. I. Chakraborty and A. A. Mishra, “Sizing and analysis of a lift-plus-cruise aircraft with electrified
-propulsion,” Journal of Aircraft, pp. 1–19, 2022. [DOI](https://doi.org/10.2514/1.C037044).
+4. Chakraborty, I., and Mishra, A. A., “Sizing and Analysis of a Lift-Plus-Cruise Aircraft with Elec-
+trified Propulsion,” Journal of Aircraft, Vol. 60, No. 3, 2023, pp. 747–765. [DOI](https://doi.org/10.2514/1.C037044).
 
-5. I. Chakraborty and A. A. Mishra, “Generalized energy-based flight vehicle sizing and performance
-analysis methodology,” Journal of Aircraft, vol. 58, no. 4, pp. 762–780, 2021. [DOI](https://doi.org/10.2514/1.C036101).
+5. Chakraborty, I., and Mishra, A. A., “Generalized Energy-Based Flight Vehicle Sizing and Perfor-
+mance Analysis Methodology,” Journal of Aircraft, Vol. 58, No. 4, 2021, pp. 762–780. [DOI](https://doi.org/10.2514/1.C036101).
 
 
 # References
