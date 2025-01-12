@@ -150,8 +150,7 @@ Electric Propulsion,” Journal of Aircraft, Vol. 60, No. 1, 2023, pp. 245–264
 
 3. Chakraborty, I., Mishra, A. A., van Dommelen, D., and Anemaat, W. A., “Design and Sizing of an Electrified Lift-Plus-Cruise Ducted Fan Aircraft,” Journal of Aircraft, Vol. 60, No. 3, 2023, pp. 817–834. [DOI](https://doi.org/10.2514/1.C036811).
 
-4. Chakraborty, I., and Mishra, A. A., “Sizing and Analysis of a Lift-Plus-Cruise Aircraft with Elec-
-trified Propulsion,” Journal of Aircraft, Vol. 60, No. 3, 2023, pp. 747–765. [DOI](https://doi.org/10.2514/1.C037044).
+4. Chakraborty, I., and Mishra, A. A., “Sizing and Analysis of a Lift-Plus-Cruise Aircraft with Electrified Propulsion,” Journal of Aircraft, Vol. 60, No. 3, 2023, pp. 747–765. [DOI](https://doi.org/10.2514/1.C037044).
 
 5. Chakraborty, I., and Mishra, A. A., “Generalized Energy-Based Flight Vehicle Sizing and Perfor-
 mance Analysis Methodology,” Journal of Aircraft, Vol. 58, No. 4, 2021, pp. 762–780. [DOI](https://doi.org/10.2514/1.C036101).
