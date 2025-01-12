@@ -125,17 +125,18 @@ Excerpt from Aerospace America 2022 September bulletin:
 
 ![scitech](https://github.com/user-attachments/assets/c02d8215-ef84-41a6-91fd-1d4934ba6fd0)
 
-1. A. A. Mishra, and I. Chakraborty, “Integrating Stability and Control Constraints into the Conceptual Sizing of a VTOL Tilt-Wing Aircraft,”
-   AIAA AVIATION FORUM AND ASCEND 2024, AIAA-2024-4050, Las Vegas, NV. [DOI](https://doi.org/10.2514/6.2024-4050).
+1. Mishra, A. A., and Chakraborty, I., “Integrating Flight Dynamics Constraints into the Conceptual 
+Design of a Vectored Thrust UAM Vehicle,” AIAA SCITECH 2025 Forum, 2025, Paper 2349. [DOI](https://doi.org/10.2514/6.2025-2349).     
+2. Mishra, A. A., and Chakraborty, I., “Flight Dynamics and Control Integration in Conceptual Design of an Advanced Air Mobility VTOL Aircraft,” AIAA AVIATION FORUM AND ASCEND 2024, 2024, Paper 4050. [DOI](https://doi.org/10.2514/6.2024-4050).
 
-2. A. A. Mishra and I. Chakraborty, “Integrating stability and control considerations into the sizing of an
+3. A. A. Mishra and I. Chakraborty, “Integrating stability and control considerations into the sizing of an
 advanced air mobility VTOL aircraft,” in AIAA SCITECH 2024 Forum, AIAA-2024-2316, Orlando, FL. [DOI](https://doi.org/10.2514/6.2024-2316).
       
-3. I. Chakraborty, A. A. Mishra, A. M. Comer, and C. Leonard, “Total energy based flight control system
+4. I. Chakraborty, A. A. Mishra, A. M. Comer, and C. Leonard, “Total energy based flight control system
 design for a lift-plus-cruise urban air mobility concept,” in AIAA SCITECH 2021 Forum,
 AIAA-2021-1899, Virtual, 2021, p. 1899. [DOI](https://doi.org/10.2514/6.2021-1899).
 
-4. I. Chakraborty, A. M. Comer, A. A. Mishra, J. M. Dewey, and C. Leonard, “A reconfigurable flight
+5. I. Chakraborty, A. M. Comer, A. A. Mishra, J. M. Dewey, and C. Leonard, “A reconfigurable flight
 simulation framework aimed at novel flight vehicle concepts,” in AIAA AVIATION 2020 FORUM,
 AIAA-2020-3190, Virtual, 2020, p. 3190. [DOI](https://doi.org/10.2514/6.2020-3190).
    
