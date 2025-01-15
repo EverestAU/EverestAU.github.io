@@ -55,7 +55,7 @@ My research goal is to develop a **_unified sizing and flight simulation framewo
 
 
   Following are some of the conceptual vehicles sized using PEACE:  
-  More details are available here on the lab's [website](https://www.vsddl.com/hangar/).    
+  More details are available here on the VSDDL Hangar website [website](https://www.vsddl.com/hangar/).    
   
   ![image](https://github.com/user-attachments/assets/b18ee48f-1f4e-4a10-83d4-588bcca871a1)
   ![image](https://github.com/user-attachments/assets/a208455c-5dae-436f-ae4b-0cf634f49b83)    
