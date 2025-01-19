@@ -4,7 +4,7 @@ I am Aashutosh Aman Mishra, a Ph.D. candidate in Aerospace Engineering at Auburn
 
 My expertise includes aircraft design, aero-propulsive model development, flight dynamics, flight control system development, and real-time flight simulation, with a focus on novel/unconventional advanced air mobility concepts. 
 
-My research goal is to develop a **_unified sizing and flight simulation framework_** to ensure that the vehicle is sized to exhibit desirable flying qualities during flight. 
+My research goal is to develop a **_unified aircraft sizing and flight simulation framework_** to ensure that the vehicle is sized to exhibit desirable flying qualities during flight. 
 
 <!-- [Download My Resume](https://github.com/EverestAU/EverestAU.github.io/raw/main/resume.pdf) -->
 
