@@ -10,7 +10,8 @@ My research goal is to develop a **_unified aircraft sizing and flight simulatio
 
 
 # Areas of Specialization
-![image](https://github.com/user-attachments/assets/e8ec6121-2087-4370-bf32-d0655ea93a1b)
+![image](https://github.com/user-attachments/assets/7a19dd41-d34c-497a-8734-a2df06ff4570)
+
 
 
 # Education
